@@ -2,8 +2,11 @@ img {
     width: 100%
 }
 
-body{
-    /* font-weight: 300;
-    font-size: 18px; */
+body{    
     font-family: Arial;
+}
+
+.column{
+    width:600px;
+    margin: 33px auto;
 }
