@@ -10,5 +10,6 @@ body{
 .column{
     width:600px;
     margin: 33px auto;
-    border: dotted 15px #929292
+    border: dotted 15px #929292;
+    padding: 20px;
 }
